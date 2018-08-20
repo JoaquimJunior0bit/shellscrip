@@ -1,2 +1,0 @@
-# shellscrip
-introdução ao shellscript
